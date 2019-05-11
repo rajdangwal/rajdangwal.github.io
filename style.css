@@ -16,6 +16,33 @@
 
 .navbar-brand img
 {
-	height: 40px;
+	height: 50px;
 	padding-left: 30px;
+}
+
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+.navbar-nav li a
+{
+	float: right;
+	text-align: left;
+}
+#nav-bar ul li a:hover{
+	color: #2da1ff!important;
+}
+.navbar
+{
+	background: #fff;
+}
+.navbar-toggler
+{
+	border: noe!important;
+}
+.nav-link
+{
+	color: #555!important;
+	font-weight: 600;
+	font-size: 16px;
 }
