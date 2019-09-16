@@ -1301,7 +1301,7 @@ input, select, textarea {
 			#header .logo .icon:before {
 				/*height: 140px;
     				vertical-align: middle;*/
-				font-size: 7rem;
+				font-size: 5rem;
 			}
 
 		#header .content {
@@ -1449,7 +1449,7 @@ input, select, textarea {
 			}
 
 				#header .logo .icon:before {
-					font-size: 4rem;
+					font-size: 1.75rem;
 				}
 
 			#header .content .inner {
