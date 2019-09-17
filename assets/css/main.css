@@ -25,6 +25,9 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+	::-moz-selection { background: #ed6e13; color: white;}
+::selection { background: #ed6e13; color: white;}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -208,6 +211,15 @@ input, select, textarea {
 			margin: 0 0 2rem 0;
 			margin-left: auto;
 			margin-right: auto;
+		}
+
+		h1.lessspace h2.lessspace, h3.lessspace, h4.lessspace, h5.lessspace, h6.lessspace {
+			border-bottom: solid 1px #ffffff;
+			width: -moz-max-content;
+			width: -webkit-max-content;
+			width: -ms-max-content;
+			width: max-content;
+			padding-bottom: 0.5rem;
 		}
 
 	h1 {
