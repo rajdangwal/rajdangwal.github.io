@@ -757,6 +757,8 @@ input, select, textarea {
 
 		.image.main2 {
 			margin: 1.5rem 0;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 	}
