@@ -1484,13 +1484,13 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				/*width: 4.75rem;
+			/*	width: 4.75rem;
 				height: 4.75rem;
 				line-height: 4.75rem;*/
 			}
 
 				#header .logo .icon:before {
-					font-size: 1.75rem;
+					font-size: 2.75rem;
 				}
 
 			#header .content .inner {
