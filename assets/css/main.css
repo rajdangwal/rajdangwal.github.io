@@ -25,8 +25,8 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
-	::-moz-selection { background: #ed6e13; color: white;}
-::selection { background: #ed6e13; color: white;}
+	::-moz-selection { background: #AB2329; color: white;}
+::selection { background: #AB2329; color: white;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
